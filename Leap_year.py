@@ -10,7 +10,8 @@ def leap_year(year):
             print(year, "is not a leap year.") 
     return year
 year=int(input("Enter the year. "))  
-pritn(leap_year(year))  
+pritn(leap_year( year ))  
+
 
 
 
