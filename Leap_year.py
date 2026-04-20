@@ -2,7 +2,7 @@
 
 def leap_year( year):
 
-    if (year % 400 ==0 ) and (year % 100 == 0):
+    if (year % 400 == 0 ) and (year % 100 == 0):
         print(year," is a Leap year")
     elif (year % 4 = =0) and (year % 100 != 0):
             print(year ," is a leap year. ")
